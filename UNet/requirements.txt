@@ -1,7 +1,7 @@
 astroid==2.2.5
 audioread==2.1.6
 bhtsne==0.1.9
-certifi==2019.3.9
+certifi==2022.12.7
 chainer==5.3.0
 cycler==0.10.0
 Cython==0.29.7
